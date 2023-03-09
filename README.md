@@ -1,8 +1,9 @@
 <div align='center'>
 Hello!
-
+<br> <br>
+    <p>contact me</p>
 </a>&nbsp;&nbsp;
-    <a href="mailto:alexaandhia@gmail.com"><img height="30" src="https://th.bing.com/th/id/OIP.9sT4UWsRfFiy6vPydv3_-QHaHO?pid=ImgDet&rs=1"></a>&nbsp;&nbsp;
+    <a href="mailto:alexaandhia@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>&nbsp;&nbsp;
   </p>
   
  </div>
