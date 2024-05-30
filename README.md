@@ -1,11 +1,15 @@
 <div align='center'>
-Hello!
+Hello! I'm Alexa. I'm a Software and Game Development graduate. I'm building and
+developing websites and I'm currently looking for Quality Assurance experience!
 <br> <br>
     <p>contact me</p>
 </a>&nbsp;&nbsp;
     <a href="mailto:alexaandhia@gmail.com"><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>&nbsp;&nbsp;
-  </p>
-  
+    <a href="linkedin.com/in/alexandriaandhia">
+ 
+<i class="fa-brands fa-linkedin"></i></a>
+  &nbsp;&nbsp;
+    <a href="https://alexaandhia.github.io/"><i class="fa-solid fa-globe"></i></a>
  </div>
 <!--
 **alexaandhia/alexaandhia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
